@@ -15,3 +15,17 @@ str.islower()
 str.isupper()
 
 see documentation for more
+
+## Reading inputs
+
+.split() => splits strings into list
+.strip() => removes leading and trailing whitespaces
+.lstrip() => removes trailing whitespace
+.rstrip() => removes leading whitespace
+
+## Count element that satisfy a condition
+
+- Create a dictionary
+- Set the default to zero
+- Increase the value of the element(key) by one per every occurrence of the element
+- Use key as count of element
