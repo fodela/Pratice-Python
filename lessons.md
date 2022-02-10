@@ -8,4 +8,8 @@ str.isalnum() => checks if all the characters of a string are alphanumeric (a-z,
 
 str.isalpha() => checks if all the characters of a string are alphabetical (a-z and A-Z).
 
-and many more
+str.isdigit()
+str.islower()
+str.isupper()
+
+see documentation for more
