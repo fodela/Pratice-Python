@@ -29,3 +29,5 @@ see documentation for more
 - Set the default to zero
 - Increase the value of the element(key) by one per every occurrence of the element
 - Use key as count of element
+
+See 'Word order' for a sample
